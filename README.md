@@ -1,16 +1,15 @@
-### Hi there 👋
+# Welcome My Git Hub 🐱
 
-<!--
-**leesein-dev/leesein-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋  I'm Web full stack developer using javascript.
+Sometimes I develop mobile app cross-platform like Flutter.📱
 
-Here are some ideas to get you started:
+💘 I really love Programming, Programming is my life. 
+so everyday find new tech stack or deep studying my basic tech stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hope to develop every beautiful things. ✨
+
+### 💪 Tech Stack 
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+### 🛠 Tools
