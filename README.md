@@ -21,8 +21,8 @@
 <img src="https://img.shields.io/badge/_leesein.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <a href="https://obtainable-waiter-dbf.notion.site/AI-5452a0a5d76e46d4b1219f299a9d2c46">
   <img src="https://img.shields.io/badge/_It's Me-0094F5?style=flat-square&logo=GitHubSponsors&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>&nbsp;
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={leesein_dev})](https://solved.ac/{leesein_dev})
+</a>&nbsp;<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesein_dev)](https://solved.ac/leesein_dev/)
 
 ## 💪 Tech Stack
 ### Language
