@@ -1,5 +1,5 @@
 # Tikkun Olam, world repair! 🧒🏻
-
+...현 이름은 이지민이고, 개명할 예정입니다<br/><br/>
 안녕하세요.<br/>
 저는 2년차 프론트 엔드 개발자 이세인 입니다. 👋 <br/>
 제 목표는 AI가 탑재된 서비스로 세상에 선한 영향력을 전하는 것입니다.<br/>
@@ -22,7 +22,7 @@
 <a href="https://obtainable-waiter-dbf.notion.site/AI-5452a0a5d76e46d4b1219f299a9d2c46">
   <img src="https://img.shields.io/badge/_It's Me-0094F5?style=flat-square&logo=GitHubSponsors&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={userid})](https://solved.ac/{userid})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={leesein_dev})](https://solved.ac/{leesein_dev})
 
 ## 💪 Tech Stack
 ### Language
