@@ -22,8 +22,7 @@
 <a href="https://obtainable-waiter-dbf.notion.site/AI-5452a0a5d76e46d4b1219f299a9d2c46">
   <img src="https://img.shields.io/badge/_It's Me-0094F5?style=flat-square&logo=GitHubSponsors&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp;
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={leesein.dev})](https://solved.ac/{leesein.def})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={userid})](https://solved.ac/{userid})
 
 ## 💪 Tech Stack
 ### Language
